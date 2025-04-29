@@ -1,4 +1,4 @@
-# cristianaliv-Manual-Testing-Carturesti-Web-Application
+# Manual-Testing-Carturesti-Web-Application
 
 Final Project: Manual Testing of the Carturești Web Application – Smoke Testing, Bug Identification, and Test Reporting
 
